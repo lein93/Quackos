@@ -1,1 +1,5 @@
-Iteraciones
+#Iteraciones
+
+1° Iteracion
+2016-06-21
+Creacion del modelo fisico, logico y script de la base de datos
