@@ -3,3 +3,8 @@
 1° Iteracion
 2016-06-21
 Creacion del modelo fisico, logico y script de la base de datos
+
+2° Iteracion
+2016-06-21
+Correccion BDD, tanto sql como modelo logico y fisico
+Creacion de Interfaces para Modulos de Persona, Curso, Reserva, Prestamo, Recurso
